@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://examplesite.com/it/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://examplesite.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://examplesite.com/it/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/it/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://examplesite.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://examplesite.com/it/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://examplesite.com/it/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://examplesite.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://examplesite.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="http://examplesite.com/it/"
+                />
+  </url>
+  
+</urlset>
